@@ -1,9 +1,9 @@
-﻿CSV Template Version 1.0.0,,,,,,,,,,,,,,,,
-"Filename is case sensitive, file extension must be included.",,,,,,,,,,,,,,,,
-"Mix ID can be any string. If Mix ID is not blank, Q Cuts will match all files with the same mix ID to the first file listed here with that ID",,,,,,,,,,,,,,,,
-"Usage Options: BI = Background Instrumental, BV = Background Vocal, VI = Visual Instrumental, VV = Visual Vocal, MT = Main Title Theme, ET = End Title Theme, Logo",,,,,,,,,,,,,,,,
-"Shares is optional, but should be a number between 0 and 100. All shares for a file should add up to 100",,,,,,,,,,,,,,,,
-"After and Before allow you to assign special rules for a file. For example, setting a different usage after a certain time. Before and After measure runtime, not timecode, and are checked against the start time of the clip",,,,,,,,,,,,,,,,
-More documentation and a full CSV tutorial can be found online,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-Filename,Title,Mix ID,Usage,Role,Composer or Arranger (First and Middle Name),Composer or Arranger (Last Name),Publisher,Ignore - Annoying Excel Workaround,PRO Affiliation,Shares,After HH,After MM,After SS,Before HH,Before MM,Before SS
+﻿CSV Template Version 1.1.0,,,,,,,,,,,,,,,,,
+"Filename is case sensitive, file extension must be included.",,,,,,,,,,,,,,,,,
+"Mix ID can be any string. If Mix ID is not blank, Q Cuts will match all files with the same mix ID to the first file listed here with that ID",,,,,,,,,,,,,,,,,
+"Usage Options: BI = Background Instrumental, BV = Background Vocal, VI = Visual Instrumental, VV = Visual Vocal, MT = Main Title Theme, ET = End Title Theme, Logo",,,,,,,,,,,,,,,,,
+"Shares is optional, but should be a number between 0 and 100. All shares for a file should add up to 100",,,,,,,,,,,,,,,,,
+"After and Before allow you to assign special rules for a file. For example, setting a different usage after a certain time. Before and After measure runtime, not timecode, and are checked against the start time of the clip",,,,,,,,,,,,,,,,,
+More documentation and a full CSV tutorial can be found online,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Filename,Title,Link,Mix ID,Usage,Role,Composer or Arranger (First and Middle Name),Composer or Arranger (Last Name),Publisher,Ignore - Annoying Excel Workaround,PRO Affiliation,Shares,After HH,After MM,After SS,Before HH,Before MM,Before SS
